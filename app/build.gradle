@@ -7,7 +7,7 @@ android {
     compileSdkVersion 31
 
     defaultConfig {
-        applicationId "com.example.keybord.keyborddemo"
+        applicationId "me.ztiany.example.qrcoder"
         minSdkVersion 21
         targetSdkVersion 30
         versionCode 1
